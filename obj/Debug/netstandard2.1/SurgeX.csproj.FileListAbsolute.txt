@@ -1,0 +1,22 @@
+C:\Users\camze\Downloads\SanityMenu\SanityV2\SurgeX.BBX\lost_the_money_in_my_bank_account (2)\testplate\bin\Debug\netstandard2.1\SurgeX.deps.json
+C:\Users\camze\Downloads\SanityMenu\SanityV2\SurgeX.BBX\lost_the_money_in_my_bank_account (2)\testplate\bin\Debug\netstandard2.1\SurgeX.dll
+C:\Users\camze\Downloads\SanityMenu\SanityV2\SurgeX.BBX\lost_the_money_in_my_bank_account (2)\testplate\bin\Debug\netstandard2.1\SurgeX.pdb
+C:\Users\camze\Downloads\SanityMenu\SanityV2\SurgeX.BBX\lost_the_money_in_my_bank_account (2)\testplate\bin\Debug\netstandard2.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\camze\Downloads\SanityMenu\SanityV2\SurgeX.BBX\lost_the_money_in_my_bank_account (2)\testplate\bin\Debug\netstandard2.1\ZString.dll
+C:\Users\camze\Downloads\SanityMenu\SanityV2\SurgeX.BBX\lost_the_money_in_my_bank_account (2)\testplate\bin\Debug\netstandard2.1\0Harmony.xml
+C:\Users\camze\Downloads\SanityMenu\SanityV2\SurgeX.BBX\lost_the_money_in_my_bank_account (2)\testplate\bin\Debug\netstandard2.1\BepInEx.xml
+C:\Users\camze\Downloads\SanityMenu\SanityV2\SurgeX.BBX\lost_the_money_in_my_bank_account (2)\testplate\bin\Debug\netstandard2.1\BepInEx.Harmony.xml
+C:\Users\camze\Downloads\SanityMenu\SanityV2\SurgeX.BBX\lost_the_money_in_my_bank_account (2)\testplate\bin\Debug\netstandard2.1\BepInEx.Preloader.xml
+C:\Users\camze\Downloads\SanityMenu\SanityV2\SurgeX.BBX\lost_the_money_in_my_bank_account (2)\testplate\bin\Debug\netstandard2.1\MonoMod.RuntimeDetour.xml
+C:\Users\camze\Downloads\SanityMenu\SanityV2\SurgeX.BBX\lost_the_money_in_my_bank_account (2)\testplate\bin\Debug\netstandard2.1\MonoMod.Utils.xml
+C:\Users\camze\Downloads\SanityMenu\SanityV2\SurgeX.BBX\lost_the_money_in_my_bank_account (2)\testplate\obj\Debug\netstandard2.1\SurgeX.csproj.AssemblyReference.cache
+C:\Users\camze\Downloads\SanityMenu\SanityV2\SurgeX.BBX\lost_the_money_in_my_bank_account (2)\testplate\obj\Debug\netstandard2.1\SurgeX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camze\Downloads\SanityMenu\SanityV2\SurgeX.BBX\lost_the_money_in_my_bank_account (2)\testplate\obj\Debug\netstandard2.1\SurgeX.AssemblyInfoInputs.cache
+C:\Users\camze\Downloads\SanityMenu\SanityV2\SurgeX.BBX\lost_the_money_in_my_bank_account (2)\testplate\obj\Debug\netstandard2.1\SurgeX.AssemblyInfo.cs
+C:\Users\camze\Downloads\SanityMenu\SanityV2\SurgeX.BBX\lost_the_money_in_my_bank_account (2)\testplate\obj\Debug\netstandard2.1\SurgeX.csproj.CoreCompileInputs.cache
+C:\Users\camze\Downloads\SanityMenu\SanityV2\SurgeX.BBX\lost_the_money_in_my_bank_account (2)\testplate\obj\Debug\netstandard2.1\SurgeX.csproj.CopyComplete
+C:\Users\camze\Downloads\SanityMenu\SanityV2\SurgeX.BBX\lost_the_money_in_my_bank_account (2)\testplate\obj\Debug\netstandard2.1\SurgeX.dll
+C:\Users\camze\Downloads\SanityMenu\SanityV2\SurgeX.BBX\lost_the_money_in_my_bank_account (2)\testplate\obj\Debug\netstandard2.1\SurgeX.pdb
+C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag\BepInEx\plugins\Debug\netstandard2.1\SurgeX.deps.json
+C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag\BepInEx\plugins\Debug\netstandard2.1\SurgeX.dll
+C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag\BepInEx\plugins\Debug\netstandard2.1\SurgeX.pdb
